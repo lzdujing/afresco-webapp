@@ -1,0 +1,25 @@
+Manifest-Version: 1.0
+Implementation-Title: Alfresco Repository WAR Community
+Build-Date: 2018-06-25T02:50:22Z
+Build-Number: 0
+Implementation-Version: 5.2-SNAPSHOT
+Archiver-Version: Plexus Archiver
+Built-By: xrj
+Specification-Vendor: Alfresco Software
+Specification-Title: Alfresco Repository WAR Community
+Implementation-Vendor-Id: org.alfresco
+Build-Key: BUILD-KEY-0
+Implementation-Vendor: Alfresco Software
+Build-Revision: 100000
+Build-Name: Build-Name
+Created-By: Apache Maven 3.3.9
+Build-Jdk: 1.8.0_171
+Implementation-URL: http://www.alfresco.org/alfresco-parent/projects/a
+ lfresco-platform/
+Specification-Version: 5.2.0
+
+Name: Source-control
+Source-Url: local/development/workspace
+Source-Revision: 100000
+Last-change-Revision: 100000
+
